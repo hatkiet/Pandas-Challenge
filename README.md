@@ -28,6 +28,7 @@ Data of Reading Scores by Grade
 - Similarly, the “Scores by School Size” summary data table highlights the potential advantages of smaller school sizes in fostering higher average scores and passing rates. It shows that small and medium-sized schools, having less than 1000 and between 1000-2000 students respectively, exhibit higher average scores and passing rates than larger schools. On the other hand, larger schools, with student populations ranging from 2000-5000, show lower average scores and lower percentages of students passing both math and reading.
 <img width="1136" alt="Screenshot 2024-01-27 at 7 21 23 PM" src="https://github.com/hatkiet/Pandas-Challenge/assets/154276115/c31844a9-c751-4bc3-a39e-b8668f90edd6">
 
+
 DRAW 2 CONCLUSIONS OR COMPARISIONS FROM THE CALCULATION
 
 [1] Charter schools dominated the top five positions in terms of passing rates for both math and reading, while District schools dominated the bottom five positions in the same categories. It is worth mentioning that the passing rate of the top five schools, which is around 91%, is almost double that of the bottom five schools, which have a passing rate of approximately 53%.
